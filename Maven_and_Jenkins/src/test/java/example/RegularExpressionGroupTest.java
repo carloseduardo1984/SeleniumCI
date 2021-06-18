@@ -1,17 +1,13 @@
 package example;
 
 
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.testng.Assert;
+
 import org.testng.annotations.Test;
 
 public class RegularExpressionGroupTest {	
 	
 	
-	public String baseUrl = "http://demo.guru99.com/balaco/";
-    String driverPath = "D:\\firefoxWebDriver\\geckodriver.exe";
-    public WebDriver driver ; 
+
 	
 	 @Test(groups = { "include-test-one" })
 	    public void testMethodOne() {

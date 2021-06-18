@@ -36,10 +36,20 @@
 
     <dependencies>
         <!-- Dependency libraries to include for compilation -->
+        
+        <dependency>
+     <groupId>org.seleniumhq.selenium</groupId>
+     <artifactId>selenium-java</artifactId>
+     <version>2.53.1</version>
+  </dependency>
+  
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <version>6.3.1</version>
         </dependency>
+        
+        
+        
     </dependencies>
 </project>
