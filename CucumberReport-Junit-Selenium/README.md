@@ -3,7 +3,7 @@ BDD Cucumber with Extent Reports
 
 This is a basic web automation POC using BDD Model
 
-Tools used are Selenium with JAVA 8 based on Cucumber, Gherkin model
+Tools used are Selenium with JAVA 8 based on Cucumber, Gherkin model. With simple structure and framework friendly to support new web solutions/validations.
 
 This also had Reporting and Logging based on Extent Reports on top of TestNG, POM architecture
 
